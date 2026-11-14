@@ -1,0 +1,19 @@
+# build output
+build/
+dist/
+*.elf
+*.nso
+*.npdm
+*.nsp
+*.nro
+*.ovl
+*.nacp
+*.map
+*.tmp
+*.exe
+
+# PC tests' media (made by test/run.sh)
+test/media/
+
+# this machine's toolchain paths
+toolchain.local.ps1
